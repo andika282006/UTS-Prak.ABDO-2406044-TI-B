@@ -1,0 +1,156 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="gi9yNQSEaGV1GAEQ7cds">
+    <mxGraphModel dx="-109" dy="432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-20" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;" value="" vertex="1">
+          <mxGeometry height="660.25" width="357" x="899" y="586" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-48" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="44" width="357" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-49" parent="CZKlD_gZEXdKABUV1Oc_-48" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="nama usecase" vertex="1">
+          <mxGeometry height="44" width="179" as="geometry">
+            <mxRectangle height="44" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-50" parent="CZKlD_gZEXdKABUV1Oc_-48" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="mahasiwa membayar administrasi&amp;nbsp;" vertex="1">
+          <mxGeometry height="44" width="178" x="179" as="geometry">
+            <mxRectangle height="44" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-45" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="44" width="357" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-46" parent="CZKlD_gZEXdKABUV1Oc_-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="aktor" vertex="1">
+          <mxGeometry height="44" width="179" as="geometry">
+            <mxRectangle height="44" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-47" parent="CZKlD_gZEXdKABUV1Oc_-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="mahasiswa" vertex="1">
+          <mxGeometry height="44" width="178" x="179" as="geometry">
+            <mxRectangle height="44" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-51" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="42" width="357" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-52" parent="CZKlD_gZEXdKABUV1Oc_-51" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="tujuan" vertex="1">
+          <mxGeometry height="42" width="179" as="geometry">
+            <mxRectangle height="42" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-53" parent="CZKlD_gZEXdKABUV1Oc_-51" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="untuk mendaftar berobat" vertex="1">
+          <mxGeometry height="42" width="178" x="179" as="geometry">
+            <mxRectangle height="42" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-54" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="50" width="357" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-55" parent="CZKlD_gZEXdKABUV1Oc_-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="skenario asli" vertex="1">
+          <mxGeometry height="50" width="179" as="geometry">
+            <mxRectangle height="50" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-56" parent="CZKlD_gZEXdKABUV1Oc_-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" vertex="1">
+          <mxGeometry height="50" width="178" x="179" as="geometry">
+            <mxRectangle height="50" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-21" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="44" width="357" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-22" parent="CZKlD_gZEXdKABUV1Oc_-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;b&gt;mahasiswa&lt;/b&gt;" vertex="1">
+          <mxGeometry height="44" width="179" as="geometry">
+            <mxRectangle height="44" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-23" parent="CZKlD_gZEXdKABUV1Oc_-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;b&gt;sistem&lt;/b&gt;" vertex="1">
+          <mxGeometry height="44" width="178" x="179" as="geometry">
+            <mxRectangle height="44" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-24" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="72" width="357" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-25" parent="CZKlD_gZEXdKABUV1Oc_-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="1. mahasiswa melihat&amp;nbsp;&lt;div&gt;jadwal dokter&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72" width="179" as="geometry">
+            <mxRectangle height="72" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-26" parent="CZKlD_gZEXdKABUV1Oc_-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="72" width="178" x="179" as="geometry">
+            <mxRectangle height="72" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-27" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="72" width="357" y="296" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-28" parent="CZKlD_gZEXdKABUV1Oc_-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="72" width="179" as="geometry">
+            <mxRectangle height="72" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-29" parent="CZKlD_gZEXdKABUV1Oc_-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="2. sistem melihatkan jadwal dokter" vertex="1">
+          <mxGeometry height="72" width="178" x="179" as="geometry">
+            <mxRectangle height="72" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-30" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="73" width="357" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-31" parent="CZKlD_gZEXdKABUV1Oc_-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="3. mahasiswa daftar berobat" vertex="1">
+          <mxGeometry height="73" width="179" as="geometry">
+            <mxRectangle height="73" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-32" parent="CZKlD_gZEXdKABUV1Oc_-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="73" width="178" x="179" as="geometry">
+            <mxRectangle height="73" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-33" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="73" width="357" y="441" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-34" parent="CZKlD_gZEXdKABUV1Oc_-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="73" width="179" as="geometry">
+            <mxRectangle height="73" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-35" parent="CZKlD_gZEXdKABUV1Oc_-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="4. sistem menunggu pembayaran" vertex="1">
+          <mxGeometry height="73" width="178" x="179" as="geometry">
+            <mxRectangle height="73" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-36" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="73" width="357" y="514" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-37" parent="CZKlD_gZEXdKABUV1Oc_-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="5. mahasiswa membayar administrasi" vertex="1">
+          <mxGeometry height="73" width="179" as="geometry">
+            <mxRectangle height="73" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-38" parent="CZKlD_gZEXdKABUV1Oc_-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="73" width="178" x="179" as="geometry">
+            <mxRectangle height="73" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-39" parent="CZKlD_gZEXdKABUV1Oc_-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="73" width="357" y="587" as="geometry" />
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-40" parent="CZKlD_gZEXdKABUV1Oc_-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="73" width="179" as="geometry">
+            <mxRectangle height="73" width="179" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZKlD_gZEXdKABUV1Oc_-41" parent="CZKlD_gZEXdKABUV1Oc_-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="6. mencatat status pendaftaran sehingga status terdaftar" vertex="1">
+          <mxGeometry height="73" width="178" x="179" as="geometry">
+            <mxRectangle height="73" width="178" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
